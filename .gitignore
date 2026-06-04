@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Streamlit 비밀값 (실수로 커밋 방지)
+.streamlit/secrets.toml
+
+# OS
+.DS_Store
+Thumbs.db
